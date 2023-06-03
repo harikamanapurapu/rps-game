@@ -324,7 +324,7 @@
 
 }
 .exclamation{
-    position: absolute;
+    position: fixed;
     width: 464px;
     height: 70px;
     left: 436px;
