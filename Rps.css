@@ -204,10 +204,10 @@
     text-decoration: none;
     cursor: pointer;
   }
-  .rules-list{
+ .rules-list{
     list-style: square;
-  }
-  .ul li{
+ }
+ ul li{
     color: #FFA943;
   }
 #result{
