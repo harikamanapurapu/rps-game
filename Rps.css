@@ -198,16 +198,16 @@
 
   }
   
-  .close:hover,
-  .close:focus {
+ .close:hover,
+ .close:focus {
     color: black;
     text-decoration: none;
     cursor: pointer;
   }
- .rules-list{
-    list-style: square;
+.rules-list{
+   list-style-type: square;
  }
- ul li{
+ul li{
     color: #FFA943;
   }
 #result{
