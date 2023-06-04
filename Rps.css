@@ -164,10 +164,20 @@
     margin-left: 0;
     margin-right: auto;
 }
+ul{
+    margin: 10px;
+}
+.con{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
 .popup {
     display: none;
-    margin-top: 220px;
-    margin-left: 900px;
+    margin-top: 315px;
+    margin-left: 1100px;
     color: white;
     z-index: 1;
     overflow: auto;
@@ -177,7 +187,7 @@
     background: #004429;
     border: 7px solid #FFFFFF;
     border-radius: 13px;
-    padding: 8px;
+    padding: 25px;
     text-align: left;
   }
   
