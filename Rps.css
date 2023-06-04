@@ -181,7 +181,7 @@ ul{
     color: white;
     z-index: 1;
     overflow: auto;
-    position: absolute;
+    position: fixed;
     width: 260px;
     height: 320px;
     background: #004429;
